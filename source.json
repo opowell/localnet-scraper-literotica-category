@@ -1,0 +1,12 @@
+{
+  "scrapers": [
+    {
+      "name": "Literotica Category",
+      "urlPattern": "www.literotica.com/c/"
+    }
+  ],
+  "file": "literotica-category.js",
+  "scrapeGaps": {
+    "literotica.com": 10000
+  }
+}
